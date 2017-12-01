@@ -1,0 +1,18 @@
+body {
+	background-image: url("../images/background.png");
+	font-family: "Courier New", Courier, monospace;
+}
+#maindiv {
+	margin: 10% 20% 10% 20%;
+	background-color: #f0eee9;
+	border: 3px solid #af111c;
+}
+h3 {
+	text-align: center;
+	color: #af111c;
+	font-size: 200%;
+}
+.timer {
+	text-align: center;
+	font-size: 150%;
+}
